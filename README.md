@@ -1,5 +1,22 @@
 ## Hi there 👋
 
+<div align="center">
+
+  <!-- Foto Profil -->
+  <img height="200" style="border-radius: 20px;" src="https://res.cloudinary.com/dv2tebimi/image/upload/v1764375222/y9qi8a3lchgajx64jlm5.jpg" />
+
+  <!-- Judul Animasi (SVG) -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Nunito&size=32&duration=2800&pause=1200&color=CB77FF&center=true&vCenter=true&width=600&lines=👋+Hello%2C+this+is+me!;Welcome+to+my+GitHub+Profile!;Full-Stack+Web+Developer+%F0%9F%92%BB" />
+
+  <!-- Subtext -->
+  <p style="font-size: 18px; max-width: 600px;">
+    Thanks for stopping by! I’m a passionate full-stack web developer who loves building modern applications using Node.js, Express.js, PostgreSQL, Prisma ORM, React.js, Redux Toolkit, and more.
+  </p>
+
+</div>
+
+---
+
 # 💫 About Me:
 🔭 I’m currently working on<br>Building full-stack personal projects using Node.js, Express.js, PostgreSQL, Prisma ORM, and React.js with Redux Toolkit & RTK Query.<br><br>👯 I’m looking to collaborate on<br>Web development projects, especially full-stack applications, REST APIs, and open-source tools.<br><br>🤝 I’m looking for help with<br>Improving testing workflows using Jest/Vitest and exploring better backend architecture patterns.<br><br>🌱 I’m currently learning<br>Advanced backend development, database optimization, WebSocket implementation, and scalable full-stack application design.<br><br>💬 Ask me about<br>Full-stack development, REST APIs, Prisma ORM, React.js, Redux Toolkit, authentication systems, or API documentation with Swagger.<br><br>⚡ Fun fact<br>I love turning small personal ideas into complete full-stack projects just to explore new tools and improve my developer workflow.
 
