@@ -2,6 +2,12 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=45&duration=2500&pause=1200&color=CB77FF&center=true&vCenter=true&width=700&lines=Hi+there+👋;Welcome+to+my+GitHub!;I'm+Naufal+Fauzan" />
 </div>
 
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+</div>
+
+###
+
 
 <div align="center">
 
