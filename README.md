@@ -1,16 +1,31 @@
-## Hi there 👋
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=45&duration=2500&pause=1200&color=CB77FF&center=true&vCenter=true&width=700&lines=Hi+there+👋;Welcome+to+my+GitHub!;I'm+Naufal+Fauzan" />
+</div>
+
 
 <div align="center">
 
-  <!-- Foto Profil -->
-  <img height="200" style="border-radius: 20px;" src="https://res.cloudinary.com/dv2tebimi/image/upload/v1764375222/y9qi8a3lchgajx64jlm5.jpg" />
+  <!-- Profile Picture with Shadow Effect -->
+  <img height="200" style="border-radius: 50%; box-shadow: 0 8px 16px rgba(203, 119, 255, 0.3);" src="https://res.cloudinary.com/dv2tebimi/image/upload/v1764375222/y9qi8a3lchgajx64jlm5.jpg" alt="Naufal Fauzan" />
 
-  <!-- Judul Animasi (SVG) -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Nunito&size=32&duration=2800&pause=1200&color=CB77FF&center=true&vCenter=true&width=600&lines=👋+Hello%2C+this+is+me!;Welcome+to+my+GitHub+Profile!;Full-Stack+Web+Developer+%F0%9F%92%BB" />
+  <!-- Animated Typing Effect -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=1000&color=CB77FF&center=true&vCenter=true&width=600&lines=👋+Hi%2C+I'm+Naufal+Fauzan!;Full-Stack+Web+Developer+💻;Building+Modern+Web+Applications+🚀;Always+Learning+%26+Growing+🌱" alt="Typing SVG" />
 
-  <!-- Subtext -->
-  <p style="font-size: 18px; max-width: 600px;">
-    Thanks for stopping by! I’m a passionate full-stack web developer who loves building modern applications using Node.js, Express.js, PostgreSQL, Prisma ORM, React.js, Redux Toolkit, and more.
+  <!-- Enhanced Introduction -->
+  <p style="font-size: 18px; line-height: 1.6; max-width: 650px; margin: 20px auto;">
+    🚀 Passionate full-stack developer specializing in building scalable web applications<br/>
+    💡 Crafting seamless experiences with <strong>Node.js</strong>, <strong>React.js</strong>, <strong>PostgreSQL</strong>, and modern web technologies<br/>
+    🎯 Always exploring new tools and turning ideas into reality
+  </p>
+
+  <!-- Optional: Add Quick Links/Badges -->
+  <p>
+    <a href="mailto:fauzannaufal807@gmail.com">
+      <img src="https://img.shields.io/badge/Let's_Connect-CB77FF?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+    <a href="https://linkedin.com/in/naufal-fauzan-542492352">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
   </p>
 
 </div>
