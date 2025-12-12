@@ -9,7 +9,7 @@
   <img height="200" style="border-radius: 50%; box-shadow: 0 8px 16px rgba(203, 119, 255, 0.3);" src="https://res.cloudinary.com/dv2tebimi/image/upload/v1764375222/y9qi8a3lchgajx64jlm5.jpg" alt="Naufal Fauzan" />
 
   <!-- Animated Typing Effect -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=1000&color=CB77FF&center=true&vCenter=true&width=600&lines=👋+Hi%2C+I'm+Naufal+Fauzan!;Full-Stack+Web+Developer+💻;Building+Modern+Web+Applications+🚀;Always+Learning+%26+Growing+🌱" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=1000&color=CB77FF&center=true&vCenter=true&width=600&lines=👋+Hi%2C+I'm+Naufal+Fauzan!;Full-Stack+Web+Developer+💻;Building+Modern+Web🚀;Always+Learning+%26+Growing+🌱" alt="Typing SVG" />
 
   <!-- Enhanced Introduction -->
   <p style="font-size: 18px; line-height: 1.6; max-width: 650px; margin: 20px auto;">
