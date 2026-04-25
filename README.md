@@ -2,7 +2,7 @@
 
 # Naufal Fauzan
 
-**Backend Engineer Intern @ PT Tribintang Emas Mulia · Informatics Student @ UMS**
+** Software Engineer & Cloud Enthusiast · Informatics Student @ UMS**
 
 Full-stack developer yang fokus membangun REST APIs, serverless functions, dan React apps yang bersih, terdokumentasi, dan siap production.  
 Saat ini mendalami backend architecture, cloud deployment (AWS), dan scalable system design.
