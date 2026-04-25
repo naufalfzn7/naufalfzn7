@@ -2,7 +2,7 @@
 
 # Naufal Fauzan
 
-** Software Engineer & Cloud Enthusiast · Informatics Student @ UMS**
+**Software Engineer & Cloud Enthusiast · Informatics Student @ UMS**
 
 Full-stack developer yang fokus membangun REST APIs, serverless functions, dan React apps yang bersih, terdokumentasi, dan siap production.  
 Saat ini mendalami backend architecture, cloud deployment (AWS), dan scalable system design.
@@ -18,7 +18,7 @@ Saat ini mendalami backend architecture, cloud deployment (AWS), dan scalable sy
 
 ## 🔧 Experience
 
-**Backend Engineer Intern** · PT Tribintang Emas Mulia *(Feb 2026 – Present)*
+**Backend Engineer Intern** · PT Tribintang Emas Mulia *(Feb 2026 – Apr 2026)*
 - Membangun internal ERP system untuk reporting dan lunch voting
 - Develop REST APIs menggunakan **Python + AWS Lambda** (serverless)
 - Desain & manajemen **MySQL database** termasuk ERD modeling
