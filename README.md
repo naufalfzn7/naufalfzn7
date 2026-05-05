@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e40af&height=200&section=header&text=Naufal%20Fauzan&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20Backend%20%26%20Cloud%20Enthusiast&descAlignY=58&descSize=18" width="100%" />
+<img src="https://ezk68ztxknuaxwvr.public.blob.vercel-storage.com/assets/1777968382107-NaufalProfile-gRI1eUGVmIag7Lzp5YeDwBbo1ElFAx.png" width="100%" />
 
 <br/>
 
