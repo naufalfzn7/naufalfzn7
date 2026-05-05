@@ -40,7 +40,7 @@ Saat ini mendalami backend architecture, cloud deployment (AWS), dan scalable sy
 ### [Gamebox'd](https://gameboxd-naufalfzn.vercel.app) — Game Review & Wishlist Platform
 > Platform review dan wishlist game dengan autentikasi JWT dan data dari RAWG API
 
-- Develop REST API sendiri + integrasi **RAWG API**
+- Develop REST API + integrasi **RAWG API**
 - Auth system berbasis **JWT**, database **PostgreSQL** via Neon
 - Stack: React.js · Node.js · Express.js · PostgreSQL · Prisma ORM · Vercel
 - 🔗 [Live Demo](https://gameboxd-naufalfzn.vercel.app) · [Source Code](https://github.com/naufalfzn7/Gameboxd)
