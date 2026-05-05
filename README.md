@@ -1,13 +1,22 @@
 <div align="center">
 
-<img src="https://ezk68ztxknuaxwvr.public.blob.vercel-storage.com/assets/1777968382107-NaufalProfile-gRI1eUGVmIag7Lzp5YeDwBbo1ElFAx.png" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e40af&height=160&section=header" width="100%" />
 
 <br/>
 
-**Informatics Student @ Universitas Muhammadiyah Surakarta**
+<a href="https://naufalfauzan.my.id">
+  <img src="https://ezk68ztxknuaxwvr.public.blob.vercel-storage.com/assets/1777968382107-NaufalProfile-gRI1eUGVmIag7Lzp5YeDwBbo1ElFAx.png"
+    width="150"
+    style="border-radius: 50%; border: 4px solid #1e40af; box-shadow: 0 0 20px #1e40af;"
+  />
+</a>
 
-Fullstack developer yang fokus membangun REST APIs, serverless functions, dan React apps yang bersih, terdokumentasi, dan siap production.
-Saat ini mendalami backend architecture, cloud deployment (AWS), dan scalable system design.
+<h1>Naufal Fauzan</h1>
+
+<p><strong>Software Engineer & Cloud Enthusiast · Informatics Student @ UMS</strong></p>
+
+<p>Fullstack developer yang fokus membangun REST APIs, serverless functions, dan React apps yang bersih, terdokumentasi, dan siap production.<br/>
+Saat ini mendalami backend architecture, cloud deployment (AWS), dan scalable system design.</p>
 
 <br/>
 
